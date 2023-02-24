@@ -44,8 +44,8 @@ Robota.ua - February 2022 - present
 
 <div>
 
- <img src="https://user-images.githubusercontent.com/113934709/221168295-50cc6063-6eb8-4ebc-9370-6722ea1238b8.png" width="40" height="40"//>
- <img src="https://user-images.githubusercontent.com/113934709/221168300-b6b3473a-c2f7-4cb7-8f17-a97119aecb57.png" width="40" height="40"//>
+ <img src="https://user-images.githubusercontent.com/113934709/221168295-50cc6063-6eb8-4ebc-9370-6722ea1238b8.png" title="JavaScript" alt="JavaScript" width="40" height="40"//>
+ <img src="https://user-images.githubusercontent.com/113934709/221168300-b6b3473a-c2f7-4cb7-8f17-a97119aecb57.png" title="JavaScript" alt="JavaScript" width="40" height="40"//>
  <img src="https://user-images.githubusercontent.com/113934709/221168304-52015dc1-42f2-465b-833f-21ee7564c970.png" width="40" height="40"//>
  <img src="https://user-images.githubusercontent.com/113934709/221168308-d3bac02b-5200-4f45-bfcc-172f3f9d0952.png" width="40" height="40"//>
  <img src="https://user-images.githubusercontent.com/113934709/221168310-0e1b9e1d-6e7b-42f5-9c32-2def0b1e04c3.png" width="40" height="40"//>
