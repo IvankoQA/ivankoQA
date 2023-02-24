@@ -31,8 +31,6 @@ Robota.ua - February 2022 - present
 * Help mobile team in test android app
 * Responsible for deployment of features to prod
 
-<br/>
-
 ---
 
 ### :hammer_and_wrench: Skills
