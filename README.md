@@ -28,13 +28,7 @@ Robota.ua - February 2022 - present
 * Responsible for deployment of features to prod
 
 
----
 
-### Social
-
-<div id="badges">
-
-[![linked-in](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ivan-kozenko-qa/)
 
 <br/>
 
@@ -58,4 +52,8 @@ Robota.ua - February 2022 - present
 
 </div>
 
+### Social
 
+<div id="badges">
+
+[![linked-in](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ivan-kozenko-qa/)
