@@ -4,7 +4,6 @@ I'm Ivan Kozenko, QA Engineer with 1 year of experience.
 
 ### 🚀 Skills:
 
-| Header 1 | Header 2 |
 | --------|---------|
 | Data 1   | Data 2  |
 | Data 3   | Data 4  |
