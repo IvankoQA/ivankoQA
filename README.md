@@ -4,10 +4,19 @@ I'm Ivan Kozenko, QA Engineer with 1 year of experience.
 
 ### 🚀 Skills:
 
+| Header 1 | Header 2 |
 | --------|---------|
+| Testing:   | Theory, test design techniques  |
+| Documentation:   | Test cases, checklists, bug reports  |
 | Data 1   | Data 2  |
 | Data 3   | Data 4  |
-
+| Data 1   | Data 2  |
+| Data 3   | Data 4  |
+| Data 1   | Data 2  |
+| Data 3   | Data 4  |
+| Data 1   | Data 2  |
+| Data 3   | Data 4  |
+| Data 3   | Data 4  |
 
 * Testing: Theory, test design techniques
 * Documentation:Test cases, checklists, bug reports
