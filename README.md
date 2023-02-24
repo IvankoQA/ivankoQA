@@ -38,7 +38,6 @@ Robota.ua - February 2022 - present
 <div>
  
 <img src="https://user-images.githubusercontent.com/113934709/221174291-e6daa64b-54dd-4ea3-b05f-c63a095856b1.png" width="40" height="40"/>
-<img src="https://user-images.githubusercontent.com/113934709/221174277-f4202f21-59a3-4bf1-b32e-ab2279025588.png" width="40" height="40"/>
 <img src="https://user-images.githubusercontent.com/113934709/221174283-ce51f794-02f2-4c91-b24a-eb1e7e026f8a.png" width="40" height="40"/>
 <img src="https://user-images.githubusercontent.com/113934709/221174290-80c8e1f9-3aa8-4925-bdc3-d20edfa8c5e6.png" width="40" height="40"/>
 <img src="https://user-images.githubusercontent.com/113934709/221174296-dda7d004-2d2c-47c4-8eda-1b873c7272ee.png" width="40" height="40"/>
