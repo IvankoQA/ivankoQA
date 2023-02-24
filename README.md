@@ -43,7 +43,19 @@ Robota.ua - February 2022 - present
 ### :hammer_and_wrench: Skills
 
 <div>
-
+![Postman](https://user-images.githubusercontent.com/113934709/221168295-50cc6063-6eb8-4ebc-9370-6722ea1238b8.png)
+![SQL](https://user-images.githubusercontent.com/113934709/221168300-b6b3473a-c2f7-4cb7-8f17-a97119aecb57.png)
+![Swagger](https://user-images.githubusercontent.com/113934709/221168304-52015dc1-42f2-465b-833f-21ee7564c970.png)
+![TestRail](https://user-images.githubusercontent.com/113934709/221168308-d3bac02b-5200-4f45-bfcc-172f3f9d0952.png)
+![Agile](https://user-images.githubusercontent.com/113934709/221168310-0e1b9e1d-6e7b-42f5-9c32-2def0b1e04c3.png)
+![Chrome DevTools](https://user-images.githubusercontent.com/113934709/221168311-277053da-f432-45b6-87d7-5d00b324c12c.png)
+![CSS](https://user-images.githubusercontent.com/113934709/221168313-fab61960-af66-471a-8164-800b8716cd69.png)
+![DBeaver](https://user-images.githubusercontent.com/113934709/221168316-4d2b6423-a3f8-469f-af2c-f2108470f9d5.png)
+![GIT](https://user-images.githubusercontent.com/113934709/221168319-16a78798-12ad-4526-a109-9dd34037910c.png)
+![HTML](https://user-images.githubusercontent.com/113934709/221168320-54cfc021-b0d3-41e2-a508-03f6e2481f62.png)
+![Jira](https://user-images.githubusercontent.com/113934709/221168324-369b9fc8-fb25-467e-91f3-e06cd432ae1c.png)
+![JSON](https://user-images.githubusercontent.com/113934709/221168325-3a7415cb-d750-44be-ae13-b3fe18778378.png)
+![Octopus](https://user-images.githubusercontent.com/113934709/221168327-3a5c2ab8-3d1a-4368-b40f-b5e3f48a2505.png)
  
 </div>
 
