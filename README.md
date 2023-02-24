@@ -1,25 +1,22 @@
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
 
-I'm Ivan Kozenko, QA Engineer focusing mostly on back-end development 
-(Node.js, Python)
-but also working with front-end (React) and mobile (React Native).
-
-Software Engineer with 6 years of experience.
+I'm Ivan Kozenko, QA Engineer with 1 year of experience. 
 
 ### 🚀 Skills:
-* Languages: JavaScript/TypeScript (primary), Python (secondary), Java(prior).
-* Back-end: Node.js, Express, Nest.js, GraphQL, S3, SQS, SNS, Lambda.
-* Front-end: React.
-* Mobile: React Native.
-* Databases: SQL - PostgreSQL, NoSQL - MongoDB, DynamoDB, Redis.
-* Machine Learning: ml5.js, Tensorflow.
-* Continuous Integration: CircleCI, Jenkins, GitlabCI, Github actions, Docker.
-* Computer Sc.: Algorithms, Data Structures, Design Patterns, HTTP, OOP, FP.
-* Testing: Mocha, Jest, Chai, Selenium, Protractor, Cypress, Detox, Appium.
-* Languages: English, Ukrainian, German, Russian.
+* Testing: Theory, test design techniques
+* Documentation:Test cases, checklists, bug reports
+* Networks: HTTP, Client-server architecture, OSI model
+* Tools: Chrome DevTools , Postman , Swagger 
+* CI tools: Octopus , GIT 
+* Relational DB: SQL , DBeaver 
+* Issue trackers: Jira , TestRail 
+* Methodologies: Agile , Scrum, Kanban, Scrumban
+* Data formats: JSON 
+* Web: HTML , CSS , Cache, Cookie, Local storage
+* Languages: English, Ukrainian.
 
 #### Education:
-* M. Eng. in IT, System Analysis GPA 3.77.
+* Successfully completed Advanced Software Testing Course under personal supervision of a mentor.
 
 #### Achievements:
 <ul>
