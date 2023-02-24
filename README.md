@@ -15,10 +15,14 @@ I'm Ivan Kozenko, QA Engineer with 1 year of experience.
 * Web: HTML , CSS , Cache, Cookie, Local storage
 * Languages: English, Ukrainian.
 
+---
+
 #### Education:
 <ul>
  <li>Successfully completed <a target="_blank" href="https://ilarionhalushka.github.io/certificates/Ivan-Kozenko#certificate-of-completion">Advanced Software Testing Course under personal supervision of a mentor.</a>.</li>
 </ul>
+
+---
 
 #### Experience:
 Robota.ua - February 2022 - present
@@ -26,9 +30,6 @@ Robota.ua - February 2022 - present
 * Support tickets investigation
 * Help mobile team in test android app
 * Responsible for deployment of features to prod
-
-
-
 
 <br/>
 
@@ -51,6 +52,7 @@ Robota.ua - February 2022 - present
 <img src="https://user-images.githubusercontent.com/113934709/221174308-6129d0f4-6d48-47ce-8087-6d80e4cdc629.png" width="40" height="40"/>
 
 </div>
+---
 
 ### Social
 
