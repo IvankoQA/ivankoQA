@@ -58,7 +58,7 @@ Robota.ua - February 2022 - present
 ![Swagger](https://user-images.githubusercontent.com/113934709/221174306-e6c1f52f-4411-43a6-842f-a21dfa1dcc03.png)
 ![TestRail](https://user-images.githubusercontent.com/113934709/221174308-6129d0f4-6d48-47ce-8087-6d80e4cdc629.png)
 
- <img src="https://user-images.githubusercontent.com/113934709/221168327-3a5c2ab8-3d1a-4368-b40f-b5e3f48a2505.png" width="40" height="40"//>
+ <img src="https://user-images.githubusercontent.com/113934709/221168327-3a5c2ab8-3d1a-4368-b40f-b5e3f48a2505.png" width="40" height="40"/>
  
 </div>
 
