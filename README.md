@@ -43,6 +43,20 @@ Robota.ua - February 2022 - present
 ### :hammer_and_wrench: Skills
 
 <div>
+
+ <img src="https://user-images.githubusercontent.com/113934709/221168295-50cc6063-6eb8-4ebc-9370-6722ea1238b8.png"/>
+ <img src=""/>
+ <img src=""/>
+ <img src=""/>
+ <img src=""/>
+ <img src=""/>
+ <img src=""/>
+ <img src=""/>
+ <img src=""/>
+ <img src=""/>
+ <img src=""/>
+ <img src=""/>
+ <img src=""/>
 ![Postman](https://user-images.githubusercontent.com/113934709/221168295-50cc6063-6eb8-4ebc-9370-6722ea1238b8.png)
 ![SQL](https://user-images.githubusercontent.com/113934709/221168300-b6b3473a-c2f7-4cb7-8f17-a97119aecb57.png)
 ![Swagger](https://user-images.githubusercontent.com/113934709/221168304-52015dc1-42f2-465b-833f-21ee7564c970.png)
