@@ -19,21 +19,14 @@ I'm Ivan Kozenko, QA Engineer with 1 year of experience.
 <ul>
  <li>Successfully completed <a target="_blank" href="https://ilarionhalushka.github.io/certificates/Ivan-Kozenko#certificate-of-completion">Advanced Software Testing Course under personal supervision of a mentor.</a>.</li>
 </ul>
-#### Achievements:
-<ul>
- <li>Fullstack Software Engineer at <a target="_blank" href="https://khealth.com/">K Health</a>.</li>
- <li>Author of <a target="_blank" href="https://www.youtube.com/playlist?list=PLoZfdp36DZcqq6PoJJVHlS_c_1G89bkh7">free Software testing course on youtube <i class="fa fa-1x fa-youtube"></i></a>.</li>
- <li>Creator of <a target="_blank" href="https://apps.apple.com/by/app/%D0%B7%D0%BD%D0%BE-%D0%BD%D0%B0-%D1%96%D0%B7%D1%96/id1578565229">ZNO na izi</a> app, which helps pupils prepare for exams.</li>
- <li><a target="_blank" href="https://github.com/IlarionHalushka">Write</a> in JavaScript, Typescript and Python.</li>
- <li>ex QA Automation Engineer (JS, Java).</li>
- <li>Master’s degree in IT, System Analysis.</li>
- <li>Completed <a target="_blank" href="https://ilarionhalushka.github.io/Cracking-Google-Summer-of-Code-GSoC/">Google Summer of Code</a>.</li>
- <li>Open source contributor to <a target="_blank" href="https://github.com/RocketChat/Rocket.Chat.ReactNative">Rocket Chat</a>.</li>
- <li>Organized Computer Sciences <a target="_blank" href="https://ilarionhalushka.github.io/Results-Of-My-IT-Courses/">free courses</a> for students.</li>
- <li>Winner of hackathon <a target="_blank" href="https://www.testuastartups.com/post/testuastartups8">TEST UA STARTUPS #8</a>.</li>
- <li><a target="_blank" href="https://gist.github.com/IlarionHalushka/aebab1c82369b89c1d6afb12be568679">ISTQB</a> certified tester.</li>
- <li>Speak <a target="_blank" href="https://www.duolingo.com/profile/IlarionHalushka">English, German</a>, Ukrainian, Russian.</li>
-</ul>
+
+#### Experience:
+Robota.ua - February 2022 - present
+* The only QA in the team with 4 Developers
+* Support tickets investigation
+* Help mobile team in test android app
+* Responsible for deployment of features to prod
+
 
 ---
 
