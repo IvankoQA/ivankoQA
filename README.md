@@ -16,7 +16,7 @@ I'm Ivan Kozenko, QA Engineer with 1 year of experience.
 * Languages: English, Ukrainian.
 
 #### Education:
-* Successfully completed Advanced Software Testing Course under personal supervision of a mentor.
+* Successfully completed <a target="_blank" href="[https://khealth.com/](https://ilarionhalushka.github.io/certificates/Ivan-Kozenko#certificate-of-completion)">Advanced Software Testing Course under personal supervision of a mentor</a>.</li>
 
 #### Achievements:
 <ul>
