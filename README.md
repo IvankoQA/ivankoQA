@@ -7,28 +7,16 @@ I'm Ivan Kozenko, QA Engineer with 1 year of experience.
 | Header 1 | Header 2 |
 | --------|---------|
 | Testing:   | Theory, test design techniques  |
-| Documentation:   | Test cases, checklists, bug reports  |
-| Data 1   | Data 2  |
-| Data 3   | Data 4  |
-| Data 1   | Data 2  |
-| Data 3   | Data 4  |
-| Data 1   | Data 2  |
-| Data 3   | Data 4  |
-| Data 1   | Data 2  |
-| Data 3   | Data 4  |
-| Data 3   | Data 4  |
-
-* Testing: Theory, test design techniques
-* Documentation:Test cases, checklists, bug reports
-* Networks: HTTP, Client-server architecture, OSI model
-* Tools: Chrome DevTools , Postman , Swagger 
-* CI tools: Octopus , GIT 
-* Relational DB: SQL , DBeaver 
-* Issue trackers: Jira , TestRail 
-* Methodologies: Agile , Scrum, Kanban, Scrumban
-* Data formats: JSON 
-* Web: HTML , CSS , Cache, Cookie, Local storage
-* Languages: English, Ukrainian.
+| Documentation   | Test cases, checklists, bug reports  |
+| Networks   | HTTP, Client-server architecture, OSI model  |
+| Tools   | Chrome DevTools, Postman, Swagger  |
+| CI tools   | Octopus, GIT   |
+| Relational DB   | SQL, DBeaver  |
+| Issue trackers   | Jira, TestRail   |
+| Methodologies   | Agile, Scrum, Kanban, Scrumban  |
+| Data formats   | JSON  |
+| Web   | HTML, CSS, Cache, Cookie, Local storage  |
+| Languages   | English, Ukrainian  |
 
 ---
 
