@@ -33,40 +33,6 @@ Robota.ua - February 2022 - present
 * Help mobile team in test android app
 * Responsible for deployment of features to prod
 
-"Decision Table:
-
-| Situation | Action |
-| --- | --- |
-| User enters participant details | Display legal guardian details section if participant is under 18 |
-| Legal guardian details section displayed | Require completion of legal guardian details section before proceeding |
-| Participant details entered | Display available educational models based on participant's age |
-| Educational models displayed | User selects educational model and subject |
-| Educational model and subject selected | Display session or duration options based on educational model |
-| Participant is under 18 | Display participant academic information section |
-| Educational model is residential | Display extend your course section |
-| User completes form | Redirect to payment page |
-| Payment completed | Display confirmation page |
-| User has already selected a course | Skip course selection process |
-| User has abandoned form | Send email address to email marketing automation system |
-| User progress saved | Automatically save user progress for future visits |
-
-Таблица принятия решений:
-
-| Ситуация | Действие |
-| --- | --- |
-| Пользователь вводит данные участника | Отобразить раздел с данными законного представителя, если участнику меньше 18 лет |
-| Отображен раздел с данными законного представителя | Требовать заполнения раздела с данными законного представителя перед продолжением |
-| Введены данные участника | Отобразить доступные образовательные модели на основе возраста участника |
-| Отображены образовательные модели | Пользователь выбирает образовательную модель и предмет |
-| Выбраны образовательная модель и предмет | Отобразить варианты сессии или продолжительности на основе образовательной модели |
-| Участнику меньше 18 лет | Отобразить раздел с информацией об академических достижениях участника |
-| Образовательная модель является резидентной | Отобразить раздел ""Продлите свой курс"" |
-| Пользователь заполняет форму | Перенаправить на страницу оплаты |
-| Оплата произведена | Отобразить страницу подтверждения |
-| Пользователь уже выбрал курс | Пропустить процесс выбора курса |
-| Пользователь прервал заполнение формы | Отправить адрес электронной почты в систему автоматизации маркетинга по электронной почте |
-| Прогресс пользователя сохранен | Автоматически сохранять прогресс пользователя для будущих посещений |"
-
 ---
 
 ### :hammer_and_wrench: Skills
