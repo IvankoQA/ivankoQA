@@ -1,6 +1,6 @@
 # Hello and welcome! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
 
-I'm Ivan Kozenko, QA Engineer with 1 year of experience. 
+I'm Ivan Kozenko, QA Engineer with 3 years of experience. 
 
 #### Skills:
 
@@ -27,11 +27,18 @@ I'm Ivan Kozenko, QA Engineer with 1 year of experience.
 ---
 
 #### Experience:
-Robota.ua - February 2022 - present
-* The only QA in the team with 4 Developers
-* Support tickets investigation
-* Help mobile team in test android app
-* Responsible for deployment of features to prod
+Admiral Studios  - February 2021 - Present
+* Fulfilled the role of the first QA in the company with 12 developers.
+* Set up QA testing processes on three projects from scratch.
+* Executed Shift-left testing starting from designs and requirements which resulted in preventing 30% of bugs.
+* Created checklists to reduce time on regression testing by 20%.
+
+Robota.ua - February 2020 - January 2021
+* The only QA in the team with 4 Developers.
+* Support tickets investigation.
+* Help mobile team in test android app.
+* Responsible for deployment of features to prod.
+
 
 ---
 
