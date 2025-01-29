@@ -9,7 +9,7 @@ I'm Ivan Kozenko, QA Engineer with 3 years of experience.
 | Documentation   | Test cases, checklists, bug reports  |
 | Networks   | HTTP, Client-server architecture, OSI model  |
 | Tools   | Chrome DevTools, Postman, Swagger  |
-| CI tools   | Octopus, GIT   |
+| CI tools   | Octopus, GIT, Jenkins   |
 | Relational DB   | SQL, DBeaver  |
 | Issue trackers   | Jira, TestRail   |
 | Methodologies   | Agile, Scrum, Kanban, Scrumban  |
@@ -27,14 +27,15 @@ I'm Ivan Kozenko, QA Engineer with 3 years of experience.
 ---
 
 #### Experience:
-Evoplay - August 2022 - August 2023
+
+Comparus UA - since October 2023 
+* Investigating and reproducing issues, analyzing test results in Allure Report
+* Functional testing of a web application with multiple microservices
+
+Evoplay - June 2021 - August 2023
 * Functional testing of websites, log analysis, working with DB, Git.
 * Collaborated with developers to identify and resolve issues.
-
-Admiral Studios - June 2021 - July 2022
-* Fulfilled the role of the first QA in the company with 12 developers.
-* Set up QA testing processes on three projects from scratch.
-
+  
 Robota.ua - April 2020 - May 2021
 * The only QA in the team with 4 Developers.
 * Support tickets investigation.
