@@ -14,7 +14,6 @@ I'm Ivan Kozenko, QA Engineer with 4 years of experience.
 | Issue trackers   | Jira, TestRail   |
 | Methodologies   | Agile, Scrum, Kanban |
 | Automation   | Playwright + JavaScript |
-| Web   | HTML, CSS, Cache, Cookie, Local storage  |
 | Languages   | English, Ukrainian  |
 
 ---
