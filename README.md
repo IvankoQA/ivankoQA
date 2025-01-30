@@ -6,14 +6,14 @@ I'm Ivan Kozenko, QA Engineer with 4 years of experience.
 
 | Testing | Theory, test design techniques |
 | :----------------- | :------------------ |
-| Documentation   | Test cases, checklists, bug reports  |
+| Documentation   | Test cases, checklists, bug reports, test reports |
 | Networks   | HTTP, Client-server architecture, OSI model  |
-| Tools   | Chrome DevTools, Postman, Swagger  |
-| CI tools   | Octopus, GIT, Jenkins   |
+| Tools   | Chrome DevTools, Swagger, Postman  |
+| CI tools   | GIT, Octopus, Jenkins  |
 | Relational DB   | SQL, DBeaver  |
 | Issue trackers   | Jira, TestRail   |
-| Methodologies   | Agile, Scrum, Kanban, Scrumban  |
-| Data formats   | JSON  |
+| Methodologies   | Agile, Scrum, Kanban |
+| Automation   | Playwright + JavaScript |
 | Web   | HTML, CSS, Cache, Cookie, Local storage  |
 | Languages   | English, Ukrainian  |
 
@@ -29,16 +29,24 @@ I'm Ivan Kozenko, QA Engineer with 4 years of experience.
 #### Experience:
 
 Comparus UA - since October 2023 
-* Investigating and reproducing issues, analyzing test results in Allure Report
-* Functional testing of a web application with multiple microservices
+* Testing UI and API of a web platform.
+* Investigating issues and analyzing test results in Allure.
+* Introduced mandatory pre-development task testing (early testing principle), reducing bugs and improving estimations.
+* Implemented QA engineer rotations every quarter to improve collaboration and team evaluations.
+* Onboarding and mentoring new QA/BA team members.
+* Collaborating across multiple teams with different functionalities.
+* Conducting QA workshops and knowledge-sharing sessions.
+* Reviewing and improving test cases written by other QAs.
+* Responsible for deployment of features to production.
+
 
 Evoplay - June 2021 - August 2023
 * Functional testing of websites, log analysis, working with DB, Git.
-* Collaborated with developers to identify and resolve issues.
   
 Robota.ua - April 2020 - May 2021
-* The only QA in the team with 4 Developers.
-* Support tickets investigation.
+* Investigated and resolved user-reported issues, reducing response time for support tickets.
+* Conducted exploratory testing to identify potential UX/UI inconsistencies.
+
 
 ---
 
