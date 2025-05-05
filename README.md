@@ -4,17 +4,17 @@ I'm Ivan Kozenko, QA Engineer with 4 years of experience.
 
 #### Skills:
 
-| Testing | Theory, test design techniques |
-| :----------------- | :------------------ |
-| Documentation   | Test cases, checklists, bug reports, test reports |
-| Networks   | HTTP, Client-server architecture, OSI model  |
-| Tools   | Chrome DevTools, Swagger, Postman  |
-| CI tools   | GIT, Octopus, Jenkins  |
-| Relational DB   | SQL, DBeaver  |
-| Issue trackers   | Jira, TestRail   |
-| Methodologies   | Agile, Scrum, Kanban |
-| Automation   | Playwright + JavaScript |
-| Languages   | English, Ukrainian  |
+| **Automation**     | Playwright + JavaScript                           |
+| ------------------ | ------------------------------------------------- |
+| **Tools**          | Chrome DevTools, Swagger, Postman                 |
+| **CI tools**       | GIT, Octopus, Jenkins                             |
+| **Relational DB**  | SQL, Adminer                                      |
+| **Issue trackers** | Jira, TestRail                                    |
+| **Networks**       | HTTP, Client-server architecture, OSI model       |
+| **Documentation**  | Test cases, checklists, bug reports, test reports |
+| **English**        | Intermediate                                      |
+
+
 
 ---
 
@@ -28,16 +28,13 @@ I'm Ivan Kozenko, QA Engineer with 4 years of experience.
 #### Experience:
 
 Comparus UA - since October 2023 
-* Testing UI and API of a web platform.
-* Investigating issues and analyzing test results in Allure.
-* Introduced mandatory pre-development task testing (early testing principle), reducing bugs and improving estimations.
-* Implemented QA engineer rotations every quarter to improve collaboration and team evaluations.
-* Onboarding and mentoring new QA/BA team members.
-* Collaborating across multiple teams with different functionalities.
-* Conducting QA workshops and knowledge-sharing sessions.
-* Reviewing and improving test cases written by other QAs.
-* Responsible for deployment of features to production.
-
+* Introduced Playwright and implemented the company's first automated UI/E2E test suite in JavaScript
+* Designed and maintained Playwright-based UI automation framework for cross-browser testing
+* Replaced UI login with storageState()-based API authentication to optimize test speed and stability
+* Created and executed API test collections using Postman for backend validation and integration checks
+* Added daily smoke health checks to CI/CD pipeline, improving production issue detection
+* Enforced the use of aqa-id attributes in UI components to reduce flaky tests and improve selector reliability
+* Led QA workshops and shared domain/test knowledge across the QA/BA team
 
 Evoplay - June 2021 - August 2023
 * Functional testing of websites, log analysis, working with DB, Git.
