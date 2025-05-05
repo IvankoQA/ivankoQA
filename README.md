@@ -5,7 +5,6 @@ I'm Ivan Kozenko, QA Engineer with 4 years of experience.
 #### Skills:
 
 | **Automation**     | Playwright + JavaScript                           |
-| ------------------ | ------------------------------------------------- |
 | **Tools**          | Chrome DevTools, Swagger, Postman                 |
 | **CI tools**       | GIT, Octopus, Jenkins                             |
 | **Relational DB**  | SQL, Adminer                                      |
