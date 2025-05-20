@@ -4,7 +4,7 @@ I'm Ivan Kozenko, QA Engineer with 5 years of experience.
 
 #### Skills:
 
-| **Automation**     | Playwright + JavaScript                           |
+| **Automation**     | Playwright + JavaScript, Cypress                           |
 | :------------------| :-------------------------------------------------|
 | **Tools**          | Chrome DevTools, Swagger, Postman                 |
 | **CI tools**       | GIT, Octopus, Jenkins                             |
@@ -15,20 +15,9 @@ I'm Ivan Kozenko, QA Engineer with 5 years of experience.
 | **English**        | Intermediate                                      |
 
 
-
-
----
-
-#### Education:
-<ul>
- <li>Successfully completed <a target="_blank" href="https://ilarionhalushka.github.io/certificates/Ivan-Kozenko#certificate-of-completion">Advanced Software Testing Course under personal supervision of a mentor.</a>.</li>
-</ul>
-
----
-
 #### Experience:
 
-Comparus UA - since October 2023 
+Comparus UA - April 2021 - May 2025
 * Introduced Playwright and implemented the company's first automated UI/E2E test suite in JavaScript
 * Designed and maintained Playwright-based UI automation framework for cross-browser testing
 * Replaced UI login with storageState()-based API authentication to optimize test speed and stability
@@ -37,12 +26,12 @@ Comparus UA - since October 2023
 * Enforced the use of aqa-id attributes in UI components to reduce flaky tests and improve selector reliability
 * Led QA workshops and shared domain/test knowledge across the QA/BA team
 
-Evoplay - June 2021 - August 2023
-* Functional testing of websites, log analysis, working with DB, Git.
+Evoplay - February 2019 - March 2021
+* Developed Cypress-based automated UI tests, performed functional/regression testing
   
-Robota.ua - April 2020 - May 2021
-* Investigated and resolved user-reported issues, reducing response time for support tickets.
-* Conducted exploratory testing to identify potential UX/UI inconsistencies.
+Robota.ua - March 2018 - January 2019
+* Investigated and resolved user-reported issues, reducing response time for support tickets
+* Conducted exploratory testing to identify potential UX/UI inconsistencies
 
 
 ---
